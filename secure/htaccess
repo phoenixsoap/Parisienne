@@ -1,0 +1,6 @@
+ErrorDocument 401 /Forms/401.html
+AuthUserFile /home/phoenixsoap/loe.org/docs/library/.htpasswd
+AuthName "Restricted"
+AuthType Basic
+require valid-user
+

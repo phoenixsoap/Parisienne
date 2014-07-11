@@ -1,0 +1,1 @@
+<?php $armourwhere = 'where type="armour" '; include 'list.php'; ?>
